@@ -1,5 +1,4 @@
-# Project Name
-> Telecom Churn Case Study
+# Telecom Churn Case Study
 
 ## Table of Contents
 * [General Info](#general-information)
